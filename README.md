@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kap100605-ux/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [1927-sum-game](https://github.com/kap100605-ux/LeetCode/tree/master/1927-sum-game) |
 ## Design
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0070-climbing-stairs](https://github.com/kap100605-ux/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/kap100605-ux/LeetCode/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kap100605-ux/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1927-sum-game](https://github.com/kap100605-ux/LeetCode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kap100605-ux/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
 |  |
@@ -128,4 +130,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kap100605-ux/LeetCode/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/kap100605-ux/LeetCode/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/kap100605-ux/LeetCode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
