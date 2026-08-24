@@ -35,6 +35,7 @@
 | [0485-max-consecutive-ones](https://github.com/kap100605-ux/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0994-rotting-oranges](https://github.com/kap100605-ux/LeetCode/tree/master/0994-rotting-oranges) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kap100605-ux/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1872-stone-game-viii](https://github.com/kap100605-ux/LeetCode/tree/master/1872-stone-game-viii) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/kap100605-ux/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Sorting
 |  |
@@ -47,6 +48,7 @@
 | [0070-climbing-stairs](https://github.com/kap100605-ux/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/kap100605-ux/LeetCode/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kap100605-ux/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1872-stone-game-viii](https://github.com/kap100605-ux/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kap100605-ux/LeetCode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kap100605-ux/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
@@ -118,6 +120,7 @@
 | [0070-climbing-stairs](https://github.com/kap100605-ux/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kap100605-ux/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kap100605-ux/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [1872-stone-game-viii](https://github.com/kap100605-ux/LeetCode/tree/master/1872-stone-game-viii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,5 +141,18 @@
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/kap100605-ux/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kap100605-ux/LeetCode/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/kap100605-ux/LeetCode/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/kap100605-ux/LeetCode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/kap100605-ux/LeetCode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
