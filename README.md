@@ -7,6 +7,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/kap100605-ux/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/kap100605-ux/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kap100605-ux/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kap100605-ux/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -34,6 +35,7 @@
 | [0200-number-of-islands](https://github.com/kap100605-ux/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kap100605-ux/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kap100605-ux/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kap100605-ux/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0994-rotting-oranges](https://github.com/kap100605-ux/LeetCode/tree/master/0994-rotting-oranges) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kap100605-ux/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
