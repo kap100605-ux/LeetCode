@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/kap100605-ux/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/kap100605-ux/LeetCode/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/kap100605-ux/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [1927-sum-game](https://github.com/kap100605-ux/LeetCode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kap100605-ux/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -163,4 +164,12 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/kap100605-ux/LeetCode/tree/master/1872-stone-game-viii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kap100605-ux/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kap100605-ux/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
