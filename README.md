@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kap100605-ux/LeetCode/tree/master/0013-roman-to-integer) |
 | [0208-implement-trie-prefix-tree](https://github.com/kap100605-ux/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/kap100605-ux/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/kap100605-ux/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/kap100605-ux/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kap100605-ux/LeetCode/tree/master/0020-valid-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/kap100605-ux/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [1927-sum-game](https://github.com/kap100605-ux/LeetCode/tree/master/1927-sum-game) |
@@ -51,6 +53,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kap100605-ux/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/kap100605-ux/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kap100605-ux/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/kap100605-ux/LeetCode/tree/master/0258-add-digits) |
