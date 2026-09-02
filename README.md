@@ -47,6 +47,7 @@
 | [1872-stone-game-viii](https://github.com/kap100605-ux/LeetCode/tree/master/1872-stone-game-viii) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/kap100605-ux/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kap100605-ux/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kap100605-ux/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [1872-stone-game-viii](https://github.com/kap100605-ux/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kap100605-ux/LeetCode/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kap100605-ux/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kap100605-ux/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
