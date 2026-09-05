@@ -43,6 +43,7 @@
 | [0414-third-maximum-number](https://github.com/kap100605-ux/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kap100605-ux/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kap100605-ux/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/kap100605-ux/LeetCode/tree/master/0495-teemo-attacking) |
 | [0994-rotting-oranges](https://github.com/kap100605-ux/LeetCode/tree/master/0994-rotting-oranges) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kap100605-ux/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1872-stone-game-viii](https://github.com/kap100605-ux/LeetCode/tree/master/1872-stone-game-viii) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kap100605-ux/LeetCode/tree/master/0258-add-digits) |
+| [0495-teemo-attacking](https://github.com/kap100605-ux/LeetCode/tree/master/0495-teemo-attacking) |
 ## Number Theory
 |  |
 | ------- |
