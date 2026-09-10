@@ -19,6 +19,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/kap100605-ux/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/kap100605-ux/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kap100605-ux/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/kap100605-ux/LeetCode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1927-sum-game](https://github.com/kap100605-ux/LeetCode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kap100605-ux/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Design
