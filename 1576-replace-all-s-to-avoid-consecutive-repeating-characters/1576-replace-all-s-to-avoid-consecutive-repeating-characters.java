@@ -1,0 +1,28 @@
+
+class Solution {
+    public String modifyString(String s) {
+        char[] arr = s.toCharArray();
+
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == '?') {
+
+                for (char c = 'a'; c <= 'z'; c++) {
+                    // Check left neighbor
+                    if (i > 0 && arr[i - 1] == c) {
+                        continue;
+                    }
+
+                    // Check right neighbor
+                    if (i < arr.length - 1 && arr[i + 1] == c) {
+                        continue;
+                    }
+
+                    arr[i] = c;
+                    break;
+                }
+            }
+        }
+
+        return new String(arr);
+    }
+}
