@@ -8,6 +8,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/kap100605-ux/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/kap100605-ux/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/kap100605-ux/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kap100605-ux/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kap100605-ux/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kap100605-ux/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -20,6 +21,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/kap100605-ux/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/kap100605-ux/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kap100605-ux/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/kap100605-ux/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/kap100605-ux/LeetCode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1927-sum-game](https://github.com/kap100605-ux/LeetCode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kap100605-ux/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -209,4 +211,12 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/kap100605-ux/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kap100605-ux/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kap100605-ux/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
