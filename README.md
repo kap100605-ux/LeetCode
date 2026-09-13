@@ -28,6 +28,7 @@
 | [1927-sum-game](https://github.com/kap100605-ux/LeetCode/tree/master/1927-sum-game) |
 | [2351-first-letter-to-appear-twice](https://github.com/kap100605-ux/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kap100605-ux/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/kap100605-ux/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Design
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/kap100605-ux/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1872-stone-game-viii](https://github.com/kap100605-ux/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kap100605-ux/LeetCode/tree/master/1927-sum-game) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/kap100605-ux/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kap100605-ux/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/kap100605-ux/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/kap100605-ux/LeetCode/tree/master/3871-count-commas-in-range-ii) |
