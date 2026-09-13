@@ -10,6 +10,7 @@
 | [0219-contains-duplicate-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kap100605-ux/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kap100605-ux/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/kap100605-ux/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kap100605-ux/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kap100605-ux/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -24,6 +25,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/kap100605-ux/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/kap100605-ux/LeetCode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1927-sum-game](https://github.com/kap100605-ux/LeetCode/tree/master/1927-sum-game) |
+| [2351-first-letter-to-appear-twice](https://github.com/kap100605-ux/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kap100605-ux/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Design
 |  |
@@ -219,4 +221,9 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kap100605-ux/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/kap100605-ux/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/kap100605-ux/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
