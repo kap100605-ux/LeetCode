@@ -46,6 +46,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kap100605-ux/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kap100605-ux/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/kap100605-ux/LeetCode/tree/master/0053-maximum-subarray) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/kap100605-ux/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kap100605-ux/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kap100605-ux/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -154,6 +155,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kap100605-ux/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kap100605-ux/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kap100605-ux/LeetCode/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/kap100605-ux/LeetCode/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
