@@ -60,6 +60,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kap100605-ux/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/kap100605-ux/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/kap100605-ux/LeetCode/tree/master/0495-teemo-attacking) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kap100605-ux/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kap100605-ux/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kap100605-ux/LeetCode/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/kap100605-ux/LeetCode/tree/master/0994-rotting-oranges) |
@@ -160,6 +161,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kap100605-ux/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/kap100605-ux/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kap100605-ux/LeetCode/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
