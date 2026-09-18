@@ -85,6 +85,7 @@
 | [0070-climbing-stairs](https://github.com/kap100605-ux/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/kap100605-ux/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/kap100605-ux/LeetCode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/kap100605-ux/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/kap100605-ux/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kap100605-ux/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kap100605-ux/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -163,6 +164,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kap100605-ux/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kap100605-ux/LeetCode/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/kap100605-ux/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kap100605-ux/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kap100605-ux/LeetCode/tree/master/0704-binary-search) |
 ## Newton's Method
