@@ -64,6 +64,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/kap100605-ux/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kap100605-ux/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kap100605-ux/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/kap100605-ux/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/kap100605-ux/LeetCode/tree/master/0994-rotting-oranges) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kap100605-ux/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1872-stone-game-viii](https://github.com/kap100605-ux/LeetCode/tree/master/1872-stone-game-viii) |
@@ -168,6 +169,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/kap100605-ux/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kap100605-ux/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/kap100605-ux/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/kap100605-ux/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Newton's Method
 |  |
 | ------- |
