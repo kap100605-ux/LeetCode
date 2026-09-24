@@ -71,6 +71,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kap100605-ux/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kap100605-ux/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/kap100605-ux/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/kap100605-ux/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1872-stone-game-viii](https://github.com/kap100605-ux/LeetCode/tree/master/1872-stone-game-viii) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/kap100605-ux/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kap100605-ux/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -82,6 +83,7 @@
 | [0217-contains-duplicate](https://github.com/kap100605-ux/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/kap100605-ux/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kap100605-ux/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1552-magnetic-force-between-two-balls](https://github.com/kap100605-ux/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Math
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kap100605-ux/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kap100605-ux/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/kap100605-ux/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/kap100605-ux/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Newton's Method
 |  |
 | ------- |
