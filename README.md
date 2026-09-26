@@ -73,6 +73,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kap100605-ux/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/kap100605-ux/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kap100605-ux/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/kap100605-ux/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1872-stone-game-viii](https://github.com/kap100605-ux/LeetCode/tree/master/1872-stone-game-viii) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/kap100605-ux/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kap100605-ux/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -185,6 +186,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kap100605-ux/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/kap100605-ux/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kap100605-ux/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/kap100605-ux/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Newton's Method
 |  |
 | ------- |
