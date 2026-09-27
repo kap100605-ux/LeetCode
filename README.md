@@ -94,6 +94,7 @@
 | [0069-sqrtx](https://github.com/kap100605-ux/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kap100605-ux/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/kap100605-ux/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/kap100605-ux/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/kap100605-ux/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/kap100605-ux/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/kap100605-ux/LeetCode/tree/master/0509-fibonacci-number) |
