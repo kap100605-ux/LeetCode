@@ -24,6 +24,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/kap100605-ux/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kap100605-ux/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/kap100605-ux/LeetCode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kap100605-ux/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/kap100605-ux/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1927-sum-game](https://github.com/kap100605-ux/LeetCode/tree/master/1927-sum-game) |
 | [2351-first-letter-to-appear-twice](https://github.com/kap100605-ux/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
@@ -247,10 +248,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kap100605-ux/LeetCode/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kap100605-ux/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kap100605-ux/LeetCode/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kap100605-ux/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
