@@ -50,6 +50,7 @@
 | [0035-search-insert-position](https://github.com/kap100605-ux/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/kap100605-ux/LeetCode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/kap100605-ux/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kap100605-ux/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kap100605-ux/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kap100605-ux/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -86,6 +87,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kap100605-ux/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/kap100605-ux/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/kap100605-ux/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kap100605-ux/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -213,6 +215,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kap100605-ux/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kap100605-ux/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/kap100605-ux/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/kap100605-ux/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kap100605-ux/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kap100605-ux/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
