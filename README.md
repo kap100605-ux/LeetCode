@@ -72,6 +72,7 @@
 | [0875-koko-eating-bananas](https://github.com/kap100605-ux/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/kap100605-ux/LeetCode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kap100605-ux/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1037-valid-boomerang](https://github.com/kap100605-ux/LeetCode/tree/master/1037-valid-boomerang) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kap100605-ux/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kap100605-ux/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kap100605-ux/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -104,6 +105,7 @@
 | [0367-valid-perfect-square](https://github.com/kap100605-ux/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/kap100605-ux/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kap100605-ux/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1037-valid-boomerang](https://github.com/kap100605-ux/LeetCode/tree/master/1037-valid-boomerang) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kap100605-ux/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kap100605-ux/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/kap100605-ux/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -289,4 +291,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/kap100605-ux/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/kap100605-ux/LeetCode/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
