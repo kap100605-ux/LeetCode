@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kap100605-ux/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/kap100605-ux/LeetCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/kap100605-ux/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/kap100605-ux/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -57,6 +58,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kap100605-ux/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kap100605-ux/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/kap100605-ux/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/kap100605-ux/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kap100605-ux/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kap100605-ux/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/kap100605-ux/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kap100605-ux/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/kap100605-ux/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kap100605-ux/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -226,6 +229,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kap100605-ux/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/kap100605-ux/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/kap100605-ux/LeetCode/tree/master/0169-majority-element) |
 ## Memoization
 |  |
 | ------- |
@@ -281,6 +285,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kap100605-ux/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/kap100605-ux/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/kap100605-ux/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
@@ -295,4 +300,8 @@
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/kap100605-ux/LeetCode/tree/master/1037-valid-boomerang) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kap100605-ux/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
