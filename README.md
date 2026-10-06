@@ -82,6 +82,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/kap100605-ux/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/kap100605-ux/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1872-stone-game-viii](https://github.com/kap100605-ux/LeetCode/tree/master/1872-stone-game-viii) |
+| [2643-row-with-maximum-ones](https://github.com/kap100605-ux/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/kap100605-ux/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kap100605-ux/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kap100605-ux/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -167,6 +168,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/kap100605-ux/LeetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/kap100605-ux/LeetCode/tree/master/0994-rotting-oranges) |
+| [2643-row-with-maximum-ones](https://github.com/kap100605-ux/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Union-Find
 |  |
 | ------- |
