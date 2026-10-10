@@ -84,6 +84,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/kap100605-ux/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/kap100605-ux/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1872-stone-game-viii](https://github.com/kap100605-ux/LeetCode/tree/master/1872-stone-game-viii) |
+| [1901-find-a-peak-element-ii](https://github.com/kap100605-ux/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/kap100605-ux/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/kap100605-ux/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kap100605-ux/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -172,6 +173,7 @@
 | [0200-number-of-islands](https://github.com/kap100605-ux/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/kap100605-ux/LeetCode/tree/master/0994-rotting-oranges) |
+| [1901-find-a-peak-element-ii](https://github.com/kap100605-ux/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/kap100605-ux/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Union-Find
 |  |
@@ -208,6 +210,7 @@
 | [1539-kth-missing-positive-number](https://github.com/kap100605-ux/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kap100605-ux/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/kap100605-ux/LeetCode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1901-find-a-peak-element-ii](https://github.com/kap100605-ux/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Newton's Method
 |  |
 | ------- |
