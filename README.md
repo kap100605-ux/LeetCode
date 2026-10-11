@@ -86,6 +86,7 @@
 | [1872-stone-game-viii](https://github.com/kap100605-ux/LeetCode/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/kap100605-ux/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/kap100605-ux/LeetCode/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kap100605-ux/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/kap100605-ux/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kap100605-ux/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kap100605-ux/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -289,6 +290,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/kap100605-ux/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kap100605-ux/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
