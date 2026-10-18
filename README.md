@@ -55,6 +55,7 @@
 | [0088-merge-sorted-array](https://github.com/kap100605-ux/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kap100605-ux/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kap100605-ux/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/kap100605-ux/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/kap100605-ux/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kap100605-ux/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -305,6 +306,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kap100605-ux/LeetCode/tree/master/0136-single-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/kap100605-ux/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Interactive
 |  |
