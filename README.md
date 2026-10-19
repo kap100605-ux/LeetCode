@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/kap100605-ux/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kap100605-ux/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kap100605-ux/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/kap100605-ux/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kap100605-ux/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/kap100605-ux/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kap100605-ux/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -24,6 +25,7 @@
 | [0344-reverse-string](https://github.com/kap100605-ux/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kap100605-ux/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kap100605-ux/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/kap100605-ux/LeetCode/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/kap100605-ux/LeetCode/tree/master/0709-to-lower-case) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/kap100605-ux/LeetCode/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kap100605-ux/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -99,6 +101,7 @@
 | [0088-merge-sorted-array](https://github.com/kap100605-ux/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kap100605-ux/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kap100605-ux/LeetCode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/kap100605-ux/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/kap100605-ux/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kap100605-ux/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kap100605-ux/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -307,6 +310,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kap100605-ux/LeetCode/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/kap100605-ux/LeetCode/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/kap100605-ux/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Interactive
 |  |
